@@ -134,6 +134,11 @@ class GeneratorPage extends StatelessWidget {
         mainAxisAlignment:
             MainAxisAlignment.center, // Menyusun konten di tengah
         children: [
+          Text(
+            'Icha Dewi Putriana - 2241720069\n', // Teks yang ditambahkan
+            style: TextStyle(fontSize: 16), // Ukuran teks
+
+          ),
           BigCard(pair: pair), // Menampilkan kartu besar dengan pasangan
           SizedBox(height: 10), // Jarak vertikal antara elemen
           Row(

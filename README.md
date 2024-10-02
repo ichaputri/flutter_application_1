@@ -1,16 +1,12 @@
 # flutter_application_1
+> Nama : Icha Dewi Putriana
+Nim : 2241720069
+TI - 3F
 
-A new Flutter project.
+Untuk laporan yang lebih lengkap bisa di link berikut : [Pertemuan 5 - Tugas Praktikum](https://github.com/ichaputri/10-2241720069-PembelajaranMobile2024/blob/c8f714724e3b9419dd73f94a21531b8175748647/Pertemuan%205/LaporanTugas.md)
 
-## Getting Started
+## Hasil Akhir Project
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![hasil](img/hasil.gif)
